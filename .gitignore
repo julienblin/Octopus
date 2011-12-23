@@ -1,0 +1,11 @@
+*.pidb
+*.resources
+*.userprefs
+*.usertasks
+bin/
+
+*.suo
+*.user
+obj/
+
+.DS_Store
